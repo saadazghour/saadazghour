@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on JavaScript | ReactJS | NextJS and TypeScript .
+- 🔭 I’m currently working on JavaScript, TypeScript, NextJS and React.
+
 - 🌱 I’m currently learning JavaScript && Algorithm
+
 - 📫 How to reach me: saad.azghour@gmail.com
