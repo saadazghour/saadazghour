@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on JavaScript, TypeScript, NextJS and React.
 
-- 🌱 I’m currently learning JavaScript && Algorithm
+- 🌱 I’m currently learning JavaScript & Algorithm
 
-- 📫 How to reach me: saad.azghour@gmail.com
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/saadazghour) | [Email](mailto:saad.azghour@gmail.com) | [Twitter](https://twitter.com/saadazghour) | [Website](https://saadazghour.com)
